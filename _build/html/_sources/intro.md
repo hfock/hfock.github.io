@@ -1,16 +1,5 @@
-# Welcome to your Jupyter Book
+# Hello you!
 
-This is a small sample book to give you a feel for how book content is
-structured.
+Hey, I am the website that is speaking to you. My creator is called Hagen Aad Fock, and he feeds me with a lot of stuff. I don't know for what purpose, but maybe you will discover something that has value for you. 
 
-:::{note}
-Here is a note!
-:::
-
-And here is a code block:
-
-```
-e = mc^2
-```
-
-Check out the content pages bundled with this sample book to see more.
+Do not froget to visit me tomorrow! I grow and grow from day to day.
